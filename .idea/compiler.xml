@@ -6,7 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JUnitHW" />
+        <module name="interfaces" />
+        <module name="subjectTestingMethods" />
+        <module name="contatti" />
+        <module name="testingUtils" />
+        <module name="mainModule" />
+        <module name="calculateResult" />
+        <module name="dataBaseFunctionality" />
       </profile>
     </annotationProcessing>
   </component>
